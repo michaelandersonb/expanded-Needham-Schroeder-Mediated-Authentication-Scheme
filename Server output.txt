@@ -1,0 +1,9 @@
+Client auth request:BN70658AIUPPsORuxjD5H+6vJ8UqnsRDCQv67DawOYx70sf/p4WdLQ==,5GmeXi1eiSY=
+Decrypted ticket:QWxpY2UtQm9iU3VmZmljaWVudGx5TG9u,2
+Client sent:-3390621789431405314
+Responding with expected client nonce:-3390621789431405315
+Responding with expected server nonce:-3215316294343005831
+Decrypted auth response:0PIXcmE95P3TYObdoyjpeQ==
+Encrypted client reply:zHNv/pKgVgs=
+Client responded with:-3215316294343005832
+Authenticated Alice

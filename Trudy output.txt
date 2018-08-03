@@ -1,0 +1,5 @@
+Replaying ticket and nonce:BN70658AIUPPsORuxjD5H+6vJ8UqnsRDCQv67DawOYx70sf/p4WdLQ==,Bd9LlBt2h8k=
+Server reply to replayed message:FA14X639Lh7dlPco+VuuKg==
+Reflection attack to obtain requested nonce:BN70658AIUPPsORuxjD5H+6vJ8UqnsRDCQv67DawOYx70sf/p4WdLQ==,3ZT3KPlbrio=
+Server reply with needed nonce:agB9JUOHkmfywcY4/X1jqQ==
+Authentication completetion reply:agB9JUOHkmc=
